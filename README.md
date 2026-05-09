@@ -1,2 +1,2 @@
 # AbyssIoT
-IoTAbyss — Dive into the abyss of IoT security,  learning and practicing.
+AbyssIoT — Dive into the abyss of IoT security,  learning and practicing.
